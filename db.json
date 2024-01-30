@@ -1,4 +1,6 @@
-[
+{
+  "products": [
+  
     {
         "id": "1234237890",
         "name": "Elden Ring",
@@ -504,5 +506,6 @@
           "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mwii/MWII-LAUNCH-INTEL-006-WM.jpg"
         ]
       }
-]
+    ]
+    }
       
